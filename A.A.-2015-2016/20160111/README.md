@@ -3,9 +3,11 @@
 ![lavagna](./P_20160111.jpg)
 
 * Presentazione del corso: suddivisione
+
   |lunedì|martedì|mercoledì
   |:---:|:---:|:---:|
   |informatica|matematica|TCMC
+
 * strumenti per l'informatica:
   * linux: terminal tools
   * mac:   terminal tools
