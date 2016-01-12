@@ -1,13 +1,11 @@
 # Lezione di lunedì 11 gennaio 2016
 
-[lavagna](./P_20160111.jpg)
+![lavagna](./P_20160111.jpg)
 
 * Presentazione del corso: suddivisione
-  -------------------------
   |lunedì|martedì|mercoledì
-  -------------------------
+  |:---:|:---:|:---:|
   |informatica|matematica|TCMC
-  -------------------------
 * strumenti per l'informatica:
   * linux: terminal tools
   * mac:   terminal tools
