@@ -1,5 +1,7 @@
 # Lezione del 27 gennaio 2016 (*TCMC*)
 
+![lavagna](./P_TCMC_20160127.jpg)
+
 ## Argomenti
 
 * revisione ascolto *analitico* di:
