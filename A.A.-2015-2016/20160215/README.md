@@ -1,7 +1,5 @@
 # Lezione di lunedì 08 febbraio 2016 (*Informatica*)
 
-![lavagna](./P_20160208.jpg)
-
 ## Argomenti
 
 * Elementi di base dei computers
@@ -10,3 +8,6 @@
     * sistema operativo
     * shell testuali
     * applicazioni
+    * shell grafiche
+  * problemi della grafica
+  * problemi dei suoni
