@@ -1,13 +1,18 @@
-# Lezione di lunedì 08 febbraio 2016 (*Informatica*)
+# Lezione di lunedì 15 febbraio 2016 (*Informatica*)
 
 ## Argomenti
 
 * Elementi di base dei computers
-  * ripasso della sequenza di boot
   * *software layers*:
-    * sistema operativo
-    * shell testuali
-    * applicazioni
+    * la grafica
     * shell grafiche
-  * problemi della grafica
-  * problemi dei suoni
+  * problemi della grafica (definizione, profondità del colore, ecc.)
+  * problemi dei suoni (frequenza di campionamento, quantizzazione, jitter,
+    latenza ecc.)
+* device drivers
+* I/O
+  * file come metafora, 
+* reti
+  * architetture:
+    * IPC
+    * client/server
