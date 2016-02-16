@@ -12,3 +12,5 @@
 ## Compiti per casa
 
 * correzione funzione logaritmiche
+
+![myexp](./myexp.png)
