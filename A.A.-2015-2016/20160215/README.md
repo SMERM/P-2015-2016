@@ -1,18 +1,25 @@
 # Lezione di lunedì 15 febbraio 2016 (*Informatica*)
 
+![lavagna](./P_20160215.jpg)
+
 ## Argomenti
 
 * Elementi di base dei computers
-  * *software layers*:
-    * la grafica
-    * shell grafiche
-  * problemi della grafica (definizione, profondità del colore, ecc.)
-  * problemi dei suoni (frequenza di campionamento, quantizzazione, jitter,
-    latenza ecc.)
-* device drivers
-* I/O
-  * file come metafora, 
-* reti
-  * architetture:
-    * IPC
-    * client/server
+  * le shell testuali
+    * organizzazione di base: `focus`, `idle state`
+    * parsing dei comandi: separatore (spazio), comando, argomenti
+    * comandi di base:
+      * `ls`
+      * `cd`
+      * `echo`
+      * `pwd`
+      * `cat`
+      * `cp`
+      * `man`
+      * `apropos`
+      * `mkdir`
+      * `rmdir`
+      * `head`
+      * `tail`
+      * `ln`
+    * differenze tra copia (`cp`), *hard link* (`ln`) e *soft link* (`ln -s`)
