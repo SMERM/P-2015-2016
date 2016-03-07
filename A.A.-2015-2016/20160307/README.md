@@ -1,5 +1,9 @@
 # Lezione di lunedì 07 marzo 2016 (*Informatica*)
 
+![whiteboard](./P_20160307_1.jpg)
+
+![whiteboard](./P_20160307_2.jpg)
+
 ## Argomenti
 
 * Elementi di base dei computers
@@ -7,16 +11,6 @@
     * la grafica
     * shell grafiche
   * problemi della grafica (definizione, profondità del colore, ecc.)
-  * problemi dei suoni (frequenza di campionamento, quantizzazione, jitter,
-    latenza ecc.)
-  * struttura di un `file system`
+  * introduzione alla struttura di un `file system`
     * indirizzamento della RAM vs. indirizzamento sul disco
     * `blocks` vs. `characters`
-    * `FAT` (File Allocation Table)
-  * device drivers
-  * I/O
-    * file come metafora, 
-  * reti
-    * architetture:
-      * IPC
-      * client/server
