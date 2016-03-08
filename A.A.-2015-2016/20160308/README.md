@@ -1,4 +1,4 @@
-# Lezione del 3 marzo 2016 (*matematica*)
+# Lezione del 8 marzo 2016 (*matematica*)
 
 ## Argomenti
 
