@@ -1,5 +1,9 @@
 # Lezione del 8 marzo 2016 (*matematica*)
 
+![blackboard 1](./P_20160308_1.jpg)
+
+![blackboard 2](./P_20160308_2.jpg)
+
 ## Argomenti
 
 * correzione del compito per casa
