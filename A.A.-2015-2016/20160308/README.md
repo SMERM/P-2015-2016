@@ -9,4 +9,4 @@
 ## Compiti per casa
 
 * Usare la funzione fatta in classe modificandone il lato sinistro in modo che
- * cresca, e controllando il lobo inferiore 
+ * cresca, controllandone il lobo inferiore
