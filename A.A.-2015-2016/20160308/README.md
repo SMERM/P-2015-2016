@@ -8,4 +8,5 @@
 
 ## Compiti per casa
 
-* realizzare un "contrappunto" di due funzioni con più punti
+* Usare la funzione fatta in classe modificandone il lato sinistro in modo che
+ * cresca, e controllando il lobo inferiore 
