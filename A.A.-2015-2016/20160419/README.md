@@ -1,5 +1,7 @@
 # Lezione del 19 aprile 2016 (*matematica*)
 
+![whiteboard](./P_20160419.jpg)
+
 ## Argomenti
 
 * Funzioni trigonometriche
